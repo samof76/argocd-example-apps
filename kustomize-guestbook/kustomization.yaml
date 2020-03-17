@@ -1,4 +1,5 @@
 namePrefix: kustomize-
+namespace: argocd-test
 
 resources:
 - guestbook-ui-deployment.yaml
