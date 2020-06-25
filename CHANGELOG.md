@@ -1,3 +1,9 @@
+## [1.0.2-staging.3](https://github.com/samof76/argocd-example-apps/compare/v1.0.2-staging.2...v1.0.2-staging.3) (2020-06-25)
+
+### Bug Fixes
+
+- ignore changelog.md ([c01ea6e](https://github.com/samof76/argocd-example-apps/commit/c01ea6ed4d97c5aff685df5f635398332a9ad546))
+
 ## [1.0.2-staging.2](https://github.com/samof76/argocd-example-apps/compare/v1.0.2-staging.1...v1.0.2-staging.2) (2020-06-25)
 
 ### Bug Fixes
