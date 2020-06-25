@@ -31,7 +31,7 @@ jobs:
         # to the repository.
         # Required: true
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      uses: samof76/release-me-action@master
+      uses: ridedott/release-me-action@v3.1.10
       name: Release
       with:
         # Configure Semantic Release branches parameter:
@@ -51,5 +51,3 @@ jobs:
         # repository as part of the release process.
         # Default: false
         node-module: false
-        # Do not create changelog
-        changelog: false
