@@ -1,3 +1,14 @@
+# [1.0.0-staging.2](https://github.com/samof76/argocd-example-apps/compare/v1.0.0-staging.1...v1.0.0-staging.2) (2020-06-25)
+
+### Bug Fixes
+
+- This will fix issues ([fe1935b](https://github.com/samof76/argocd-example-apps/commit/fe1935b6a2d8914c90b478eaa0e0363dc6e032f1))
+
+### Other
+
+- Fix port ([a44f5a1](https://github.com/samof76/argocd-example-apps/commit/a44f5a1b34703b396ea5e8fea07acb33bf17b35c))
+- Just testing ([3d758b9](https://github.com/samof76/argocd-example-apps/commit/3d758b92b222cbb9c1be1e506ee73c81c9a81aae))
+
 # 1.0.0-staging.1 (2020-06-25)
 
 ### Bug Fixes
