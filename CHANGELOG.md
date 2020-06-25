@@ -1,3 +1,13 @@
+## [1.0.1](https://github.com/samof76/argocd-example-apps/compare/v1.0.0...v1.0.1) (2020-06-25)
+
+### Bug Fixes
+
+- Just testing ([9a8015e](https://github.com/samof76/argocd-example-apps/commit/9a8015e6c213c9829279980a0743a56859fceee0))
+
+### Other
+
+- Just testing ([3d758b9](https://github.com/samof76/argocd-example-apps/commit/3d758b92b222cbb9c1be1e506ee73c81c9a81aae))
+
 # 1.0.0 (2020-06-25)
 
 ### Bug Fixes
